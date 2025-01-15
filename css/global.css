@@ -11,8 +11,11 @@
   font-family: "Bebas", sans-serif;
 }
 header .navlink .masuk {
-  border: 1px solid white;
+  border: 1px solid black;
+}
+main .beli:hover {
+  border: 1px solid black;
 }
 main .keranjang {
-  border: 1px solid white;
+  border: 1px solid black;
 }
